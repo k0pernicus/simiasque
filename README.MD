@@ -13,7 +13,7 @@ Monkey tests can be really annoying, and browsing among notifications and settin
 ##How to install
 You can choose to download source code and compile it yourself, or you may want to directly download and install [this demo apk](https://github.com/Orange-OpenSource/simiasque/raw/master/demo/simiasque-debug.apk)
 
-If you prefer to compile it yourself, please to make sure you installed the *Android SDK Build-Tools 21.1.2* and the *Android Support Repository*, in Android SDK Manager.  
+If you prefer to compile it yourself, please to make sure you installed the *Android SDK Build-Tools 21.1.2* and the *Android Support Repository*, via Android SDK Manager.  
 After that, you can clone our repo
 ```
 git clone https://github.com/Orange-OpenSource/simiasque.git
@@ -52,3 +52,4 @@ Arnaud Ruffin
 
 ##License:
 MPL-2.0
+
